@@ -1,1 +1,1 @@
-![vector_banner](https://raw.githubusercontent.com/khe4oyan/repo_banners/main/banners/vector.png)
+Vector implementing in C++
